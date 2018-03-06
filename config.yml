@@ -1,0 +1,8 @@
+logging:
+  logdir: '/Users/ccarlet/Repos/PyMonitor/temp/logs'
+  loglevel: 'DEBUG'
+path:
+  data: '/Users/ccarlet/Repos/PyMonitor/temp/lib'
+  plugin: '/Users/ccarlet/Repos/PyMonitor/temp/plugins'
+plugins:
+  rabbitmq: 'enabled'
